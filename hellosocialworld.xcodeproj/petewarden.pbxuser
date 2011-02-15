@@ -100,7 +100,7 @@
 	59FC1171130AF4670093EBDB /* apikeys.rb */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {509, 658}}";
-			sepNavSelRange = "{444, 0}";
+			sepNavSelRange = "{506, 0}";
 			sepNavVisRange = "{0, 506}";
 		};
 	};
@@ -157,7 +157,7 @@
 		fRef = 59FC1173130AF4670093EBDB /* hellosocialworld.rb */;
 		name = "hellosocialworld.rb: 159";
 		rLen = 0;
-		rLoc = 5882;
+		rLoc = 6629;
 		rType = 0;
 		vrLen = 1307;
 		vrLoc = 5577;
@@ -407,7 +407,7 @@
 		fRef = 59FC1173130AF4670093EBDB /* hellosocialworld.rb */;
 		name = "hellosocialworld.rb: 159";
 		rLen = 0;
-		rLoc = 5882;
+		rLoc = 6629;
 		rType = 0;
 		vrLen = 1271;
 		vrLoc = 5577;
@@ -457,7 +457,7 @@
 		fRef = 59FC1173130AF4670093EBDB /* hellosocialworld.rb */;
 		name = "hellosocialworld.rb: 159";
 		rLen = 0;
-		rLoc = 5882;
+		rLoc = 6629;
 		rType = 0;
 		vrLen = 1271;
 		vrLoc = 5577;
@@ -467,7 +467,7 @@
 		fRef = 59FC1173130AF4670093EBDB /* hellosocialworld.rb */;
 		name = "hellosocialworld.rb: 6";
 		rLen = 0;
-		rLoc = 132;
+		rLoc = 879;
 		rType = 0;
 		vrLen = 1880;
 		vrLoc = 0;
@@ -487,7 +487,7 @@
 		fRef = 59FC1173130AF4670093EBDB /* hellosocialworld.rb */;
 		name = "hellosocialworld.rb: 9";
 		rLen = 0;
-		rLoc = 216;
+		rLoc = 963;
 		rType = 0;
 		vrLen = 1880;
 		vrLoc = 0;

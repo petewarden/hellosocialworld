@@ -1,3 +1,17 @@
+#***********************************************************************************
+#
+# This is a minimal but complete example, demonstrating how to build a simple site
+# that uses Twitter or Facebook for authentication and sharing. It's designed as a
+# scaffold around which you can associate your own application's data with users,
+# give them access to edit the objects they own, and then publish them to the world,
+# both on your site and as tweets or wall posts.
+#
+# (C) Pete Warden <pete@petewarden.com> - http://petewarden.typepad.com
+# This code is freely reusable with no restrictions
+# See http://github.com/petewarden/hellosocialworld/ for source
+#
+#***********************************************************************************
+
 require 'rubygems' if RUBY_VERSION < '1.9'
 require 'sinatra'
 require 'omniauth'
