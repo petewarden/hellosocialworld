@@ -1,4 +1,4 @@
 # This file is used by Rack-based servers to start the application.
 
-require 'wordlings'
+require 'hellosocialworld'
 run Sinatra::Application

@@ -11,6 +11,7 @@
 		59FC1172130AF4670093EBDB /* config.ru */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = config.ru; sourceTree = "<group>"; };
 		59FC1173130AF4670093EBDB /* hellosocialworld.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = hellosocialworld.rb; sourceTree = "<group>"; };
 		59FC1174130AF55A0093EBDB /* Gemfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Gemfile; sourceTree = "<group>"; };
+		59FC1177130AFB2F0093EBDB /* README.markdown */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.markdown; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -21,6 +22,7 @@
 				59FC1172130AF4670093EBDB /* config.ru */,
 				59FC1174130AF55A0093EBDB /* Gemfile */,
 				59FC1173130AF4670093EBDB /* hellosocialworld.rb */,
+				59FC1177130AFB2F0093EBDB /* README.markdown */,
 			);
 			sourceTree = "<group>";
 		};
