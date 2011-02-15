@@ -21,6 +21,10 @@ Sinatra web framework.
 
 # How to install
 
+- Ensure you have Ruby 3.* and [RubyGems](http://docs.rubygems.org/read/chapter/3) installed.
+
+- `$> cd Downloads/hellosocialworld/`
+
 - `$> bundle install --without production`
 
 - `$> sudo gem install heroku`
@@ -34,3 +38,10 @@ Sinatra web framework.
 - Visit the site to see if you can log in
 
 - If nothing shows up, run `$> heroku logs -n 100` to look at the error logs
+
+# Contact
+
+Drop me an email at [pete@petewarden.com](mailto:pete@petewarden.com) with any questions, bug
+reports or suggestions.
+
+Follow me on Twitter as [@petewarden](http://twitter.com/petewarden)
