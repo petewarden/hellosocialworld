@@ -274,7 +274,7 @@
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-							<string>{{0, 0}, {186, 866}}</string>
+							<string>{{0, 0}, {186, 883}}</string>
 						</dict>
 						<key>PBXTopSmartGroupGIDs</key>
 						<array/>
@@ -286,14 +286,14 @@
 					<key>GeometryConfiguration</key>
 					<dict>
 						<key>Frame</key>
-						<string>{{0, 0}, {203, 884}}</string>
+						<string>{{0, 0}, {203, 901}}</string>
 						<key>GroupTreeTableConfiguration</key>
 						<array>
 							<string>MainColumn</string>
 							<real>186</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>25 193 1310 925 0 0 1920 1178 </string>
+						<string>25 176 1429 942 0 0 1920 1178 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -324,7 +324,7 @@
 												<key>_historyCapacity</key>
 												<integer>0</integer>
 												<key>bookmark</key>
-												<string>59FC11A3130B01400093EBDB</string>
+												<string>59FC11A5130B05A00093EBDB</string>
 												<key>history</key>
 												<array>
 													<string>59FC1178130AFB330093EBDB</string>
@@ -343,9 +343,9 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{0, 0}, {549, 690}}</string>
+										<string>{{0, 0}, {549, 707}}</string>
 										<key>RubberWindowFrame</key>
-										<string>25 193 1310 925 0 0 1920 1178 </string>
+										<string>25 176 1429 942 0 0 1920 1178 </string>
 									</dict>
 									<key>Module</key>
 									<string>PBXNavigatorGroup</string>
@@ -372,13 +372,13 @@
 												<key>_historyCapacity</key>
 												<integer>0</integer>
 												<key>bookmark</key>
-												<string>59FC11A4130B01400093EBDB</string>
+												<string>59FC11A8130B05A00093EBDB</string>
 												<key>history</key>
 												<array>
 													<string>59FC1193130AFE430093EBDB</string>
 													<string>59FC1198130AFF070093EBDB</string>
-													<string>59FC119C130AFF730093EBDB</string>
-													<string>59FC119D130AFF730093EBDB</string>
+													<string>59FC11A6130B05A00093EBDB</string>
+													<string>59FC11A7130B05A00093EBDB</string>
 												</array>
 											</dict>
 											<key>SplitCount</key>
@@ -390,18 +390,18 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{554, 0}, {549, 690}}</string>
+										<string>{{554, 0}, {667, 707}}</string>
 										<key>RubberWindowFrame</key>
-										<string>25 193 1310 925 0 0 1920 1178 </string>
+										<string>25 176 1429 942 0 0 1920 1178 </string>
 									</dict>
 									<key>Module</key>
 									<string>PBXNavigatorGroup</string>
 									<key>Proportion</key>
-									<string>549pt</string>
+									<string>667pt</string>
 								</dict>
 							</array>
 							<key>Proportion</key>
-							<string>690pt</string>
+							<string>707pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -414,9 +414,9 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 695}, {1102, 189}}</string>
+								<string>{{0, 712}, {1221, 189}}</string>
 								<key>RubberWindowFrame</key>
-								<string>25 193 1310 925 0 0 1920 1178 </string>
+								<string>25 176 1429 942 0 0 1920 1178 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -425,7 +425,7 @@
 						</dict>
 					</array>
 					<key>Proportion</key>
-					<string>1102pt</string>
+					<string>1221pt</string>
 				</dict>
 			</array>
 			<key>Name</key>
@@ -587,7 +587,7 @@
 		<string>/Users/petewarden/Projects/hellosocialworld/hellosocialworld.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>25 193 1310 925 0 0 1920 1178 </string>
+	<string>25 176 1429 942 0 0 1920 1178 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
