@@ -1,0 +1,80 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 42;
+	objects = {
+
+/* Begin PBXFileReference section */
+		59FC1171130AF4670093EBDB /* apikeys.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = apikeys.rb; sourceTree = "<group>"; };
+		59FC1172130AF4670093EBDB /* config.ru */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = config.ru; sourceTree = "<group>"; };
+		59FC1173130AF4670093EBDB /* hellosocialworld.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = hellosocialworld.rb; sourceTree = "<group>"; };
+		59FC1174130AF55A0093EBDB /* Gemfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Gemfile; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		59FC115F130AF4440093EBDB = {
+			isa = PBXGroup;
+			children = (
+				59FC1171130AF4670093EBDB /* apikeys.rb */,
+				59FC1172130AF4670093EBDB /* config.ru */,
+				59FC1174130AF55A0093EBDB /* Gemfile */,
+				59FC1173130AF4670093EBDB /* hellosocialworld.rb */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		59FC1161130AF4440093EBDB /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 59FC1164130AF4440093EBDB /* Build configuration list for PBXProject "hellosocialworld" */;
+			compatibilityVersion = "Xcode 2.4";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 59FC115F130AF4440093EBDB;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		59FC1162130AF4440093EBDB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+			};
+			name = Debug;
+		};
+		59FC1163130AF4440093EBDB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		59FC1164130AF4440093EBDB /* Build configuration list for PBXProject "hellosocialworld" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				59FC1162130AF4440093EBDB /* Debug */,
+				59FC1163130AF4440093EBDB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 59FC1161130AF4440093EBDB /* Project object */;
+}
