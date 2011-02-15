@@ -21,16 +21,16 @@ Sinatra web framework.
 
 # How to install
 
-- Edit apikeys.rb
+- `$> bundle install --without production`
 
-- bundle install --without production
+- `$> sudo gem install heroku`
 
-- sudo gem install heroku
+- `$> heroku create ` your app's name, eg 'hellosocialworld_petewarden'
 
-- heroku create <your app's name, eg 'hellosocialworld_petewarden'>
+- Edit apikeys.rb to add your own keys, after creating apps on Twitter and Facebook
 
-- git push heroku master
+- `$> git push heroku master`
 
-- <visit site>
+- Visit the site to see if you can log in
 
-- heroku logs -n 100
+- If nothing shows up, run `$> heroku logs -n 100` to look at the error logs
