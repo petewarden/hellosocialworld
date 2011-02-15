@@ -57,7 +57,7 @@ that provide great functionality as pre-packaged gems:
 
 - [Sinatra](http://www.sinatrarb.com/) - Elegant and lightweight web framework
 - [OmniAuth](https://github.com/intridea/omniauth) - Flexible and comprehensive authentication system
-- [DataMapper](http://datamapper.org/) - [Ocassionally maddening](http://www.drmaciver.com/2010/04/datamapper-is-inherently-broken/), but very clean and easy persistent database storage
+- [DataMapper](http://datamapper.org/) - [Occasionally maddening](http://www.drmaciver.com/2010/04/datamapper-is-inherently-broken/), but very clean and easy persistent database storage
 - [twitter_oauth](https://github.com/moomerman/twitter_oauth) - Solid library for calling the Twitter API 
 - [rack/csrf](https://github.com/baldowl/rack_csrf) - A simple way of guarding against CSRF attacks
 - [fb_graph](https://github.com/nov/fb_graph) - A good Facebook API library
