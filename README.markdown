@@ -48,7 +48,7 @@ accounts. The same person logging in via a different service is treated as a dif
 the Twitter or Facebook sign-in process is all that's needed.
 
 - Only Facebook and Twitter logins are supported. It should be easy enough to add additional
-services if needed, but this combination is enough for most US consumer applications.
+services if needed, but this combination is enough for my purposes.
 
 # Credits
 
