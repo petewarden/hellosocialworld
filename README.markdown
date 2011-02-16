@@ -21,7 +21,7 @@ Sinatra web framework.
 
 # How to install
 
-- Ensure you have Ruby 3.* and [RubyGems](http://docs.rubygems.org/read/chapter/3) installed.
+- Ensure you have Ruby and [RubyGems](http://docs.rubygems.org/read/chapter/3) installed.
 
 - `$> cd Downloads/hellosocialworld/`
 
